@@ -1,0 +1,16 @@
+var colors = [
+	{ color : "Abu-abu", image : "abuabu", boom : "Abu-abu" , col : "9a9a9a", bgcol : "f2f2f2" },
+	{ color : "Biru Tua", image : "birutuabenhur", boom : "Biru Tua Benhur" , col : "1a509d", bgcol : "9ec6ff" },
+	{ color : "Biru Muda", image : "biruturkismuda", boom : "Biru Turkis Muda" , col : "8adce8", bgcol : "035763" },
+	{ color : "Hijau Muda", image : "hijaumuda", boom : "Hijau Muda" , col : "8ab959", bgcol : "2d5900" },
+	{ color : "Hijau Tua", image : "hijautua", boom : "Hijau Tua" , col : "2c691b", bgcol : "c2e2ba" },
+	{ color : "Hitam", image : "hitam", boom : "Hitam" , col : "232323", bgcol : "c4c4c4" },
+	{ color : "Krem", image : "kremmuda", boom : "Krem" , col : "e2caa4", bgcol : "5e4f37" },
+	{ color : "Kuning", image : "kuning", boom : "Kuning" , col : "fced46", bgcol : "726900" },
+	{ color : "Merah", image : "merah", boom : "Merah" , col : "c51112", bgcol : "e1c8c8" },
+	{ color : "Orange", image : "orange", boom : "Orange" , col : "fd8533", bgcol : "ffe1cc" },
+	{ color : "Pink", image : "pink", boom : "Pink" , col : "ef66b1", bgcol : "531436" },
+	{ color : "Putih", image : "putih", boom : "Putih" , col : "f4f4f4", bgcol : "7b7b7b" },
+	{ color : "Ungu Muda", image : "ungumuda", boom : "Ungu Muda" , col : "9883ad", bgcol : "251534" },
+	{ color : "Ungu Tua", image : "ungutua", boom : "Ungu Tua" , col : "4b3662", bgcol : "b8a6cb" },
+];

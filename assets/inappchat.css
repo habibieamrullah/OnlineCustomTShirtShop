@@ -1,0 +1,43 @@
+#chats{
+	background-color: white;
+	display: none;
+	-webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+#chatcontent{
+	height: 100px;
+	overflow-y: auto;
+	color: gray;
+	padding: 10px;
+}
+
+.userbubble{
+	border: 1px solid #52bf57;
+	border-radius: 25px 0px 25px 25px;
+	padding: 10px;
+	background-color: white;
+	color: #52bf57;
+	margin-bottom: 10px;
+	text-align: right;
+}
+
+.adminbubble{
+	border: 1px solid #52bfb4;
+	border-radius: 0px 25px 25px 25px;
+	padding: 10px;
+	background-color: #52bfb4;
+	color: white;
+	margin-bottom: 10px;
+	
+}
+
+.adminbubble .bubbletimestamp{
+	color: white;
+}
+
+.bubbletimestamp{
+	font-size: 10px;
+	color: gray;
+}
